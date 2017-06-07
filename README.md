@@ -1,4 +1,4 @@
-# I've joined the #100DaysOfCode Challenge.
+# Ankit Pahuja's version of #100DaysOfCode Challenge.
 
 ## Contents
 * [Rules](rules.md)
