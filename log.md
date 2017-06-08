@@ -5,4 +5,4 @@
 
 **Thoughts:** I really struggled with Git and Github, I have watched a hell lot of tutorials and infact some tutorials from the official channel but i am not convinced. This guy helped me a lot in learning GitHub and Version control (Git)!
 
-**Link to work:** [This guy's channel](http://www.example.com)
+**Link to work:** [This guy's Git and Github Playlist](https://www.youtube.com/watch?v=BCQHnlnPusY&index=1&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
