@@ -16,3 +16,23 @@
 <li>Merge</li>
 <li>Pull Request</li>
 </ul> 
+
+## Day 1: June 11th, 2017 
+**Today's Progress**: I learned the basic HTML.
+
+**Thoughts:** I really struggled finding the right resources for learning web dev, I have watched a hell lot of tutorials and infact some tutorials from the official channel but i was not convinced. Started a course on udemy (link is in the description) + Free code camp (FCC). I think these two resources along with the documentation of WEB - W3CSchool will get me the desired technologies under my stack.
+
+**Link to work:** [The Webdeveloper Bootcamp - colt steele](https://www.udemy.com/the-web-developer-bootcamp)
+                  [FCC](https://www.freecodecamp.com/)
+                  [Documentation to WEB](https://www.w3schools.com/)
+
+
+**Topics/Terminologies Learned:** I started of with learning the basics of HTML and HTML 5:
+<ul style="list-style-type:disc">
+<li>HTML Editors</li>
+<li>HTML Elements</li>
+<li>HTML Attributes</li>
+<li>HTML Styles</li>
+<li>HTML Classes</li>
+<li>HTML Quotations / Formatting</li>
+</ul> 
