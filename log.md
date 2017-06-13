@@ -58,3 +58,17 @@
 <li>Color theory</li>
 <li>RGB,HSL(CSS3),HWB(CSS4) color models</li>
 </ul> 
+
+## Day 3: June 13th, 2017 
+**Today's Progress**: HTML Forms.
+
+**Thoughts:** Free code camp (FCC) - Another 2 tasks/jobs completed (count 62 on the map!). HTML Forms is an important aspect and have added features in html 5. It was a hectic day so couldn't do much in that case.
+
+**Link to work:** <br>
+                  [FCC](https://www.freecodecamp.com/)<br>
+                  
+**Topics/Terminologies Learned:** Some cool stuff listed.
+<ul style="list-style-type:disc">
+<li>HTML FORMS</li>
+</ul> 
+
