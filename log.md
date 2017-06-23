@@ -75,6 +75,7 @@
 <h3> Sorry for a long delay - I was on a un-intentional vaaction :P</h3>
 <p>Check this <a href="https://www.youtube.com/watch?v=M_NDS50vEe8&t=121s">link</a> of White-Water River Rafting Video</p>
 -------------------------------------------------------------------------------------------------------------------------
+
 ## Day 4: June 23rd, 2017 
 **Today's Progress**: Hands on basic HTML Assignments(Converting from image to a webpage) + Part 1 (HTML5 and CSS) on FCC Completed.
 
